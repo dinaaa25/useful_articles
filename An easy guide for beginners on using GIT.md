@@ -179,9 +179,17 @@ Option 2: You work on an already created project.
     > git init
     >```
 
-2. In order 
+    Now your project is under git control!
 
+2. Now we need to push our project to github to share the project with other users. Go to your github account and create a new repository.
 
+3. Once you created the new repository a link is created on your github account, showing you the commands to enter such as the command to connect to the **remote** (remote github server).
+    **Example**:
+    >```
+    > git remote add origin git@github.com:dinaaa25/useful_articles.git
+    >```
+
+Ready! Now you can skip Option 2 and continue using git! 
 
 ### Option 2: You work on an already created project.
 
